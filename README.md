@@ -36,6 +36,6 @@ MIT © Marek Lewandowski
 [appveyor-image]: https://ci.appveyor.com/api/projects/status/npn3m9luoouasfp5/branch/master?svg=true&passingText=master%20%E2%9C%93
 [appveyor-url]: https://ci.appveyor.com/project/mlewand/generator-appveyor/branch/master
 [travis-image]: https://travis-ci.org/mlewand/generator-appveyor.svg?branch=master
-[travis-url]: https://ci.appveyor.com/project/mlewand/generator-appveyor/branch/master
+[travis-url]: https://travis-ci.org/mlewand/generator-appveyor
 [daviddm-image]: https://david-dm.org/mlewand/generator-appveyor.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/mlewand/generator-appveyor
