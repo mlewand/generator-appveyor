@@ -18,6 +18,14 @@ Then generate your new project:
 yo appveyor
 ```
 
+### Options
+
+You can customize your AppVeyor config name by adding `--appveyorName` option.
+
+```bash
+yo appveyor --appveyorName .appveyor.yml
+```
+
 ## License
 
 MIT © Marek Lewandowski
